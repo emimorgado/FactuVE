@@ -1,4 +1,4 @@
-# FactuVE 🇻🇪
+# FactuVE
 
 Sistema de facturación desarrollado en Laravel para Venezuela, con soporte de IVA (16%), control de inventario y generación de facturas en PDF.
 
@@ -16,3 +16,5 @@ Sistema de facturación desarrollado en Laravel para Venezuela, con soporte de I
 - DomPDF
 
 ## Capturas
+
+# Desarrollado por Emily Morgado
