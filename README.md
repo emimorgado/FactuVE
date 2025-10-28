@@ -17,4 +17,4 @@ Sistema de facturación desarrollado en Laravel para Venezuela, con soporte de I
 
 ## Capturas
 
-- Desarrollado por Emily Morgado
+### Desarrollado por Emily Morgado
